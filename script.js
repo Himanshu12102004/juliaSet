@@ -246,7 +246,7 @@ function main(loadErrors, text) {
   backGroundColorFloder.add(backGroundColor, "g", 0, 255);
   backGroundColorFloder.add(backGroundColor, "b", 0, 255);
   // backGroundColorFloder.open();
-  // cFolder.open();
+  cFolder.open();
   // setColorFolder.open();
   function onMousemove(e) {
     if (e.buttons === 1 || e.type == "touchmove") {
